@@ -10,14 +10,14 @@
     "osx": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/luckyzjian/dashboard/blob/master/download/1",
+      "download-url": "https://raw.githubusercontent.com/luckyzjian/dashboard/master/download/1",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     },
     "linux": {
       "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://github.com/luckyzjian/dashboard/blob/master/download/1",
+      "latest-version": "1.2",
+      "download-url": "https://raw.githubusercontent.com/luckyzjian/dashboard/master/download/1",
       "changelog": "This is an example changelog for Linux. Go on...",
       "mandatory": true
     },
